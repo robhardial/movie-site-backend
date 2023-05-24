@@ -1,0 +1,9 @@
+dev/rob/movies/MoviesApplication.class
+dev/rob/movies/MovieRepository.class
+dev/rob/movies/MovieService.class
+dev/rob/movies/MovieController.class
+dev/rob/movies/ReviewService.class
+dev/rob/movies/Review.class
+dev/rob/movies/ReviewRepository.class
+dev/rob/movies/Movie.class
+dev/rob/movies/ReviewController.class
